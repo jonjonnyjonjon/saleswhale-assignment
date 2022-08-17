@@ -1,0 +1,16 @@
+@font-face {
+    font-family: ProximaNova;
+    src: url("./assets/fonts/ProximaNova/ProximaNova-Regular.otf") format("opentype");
+}
+
+body {
+  margin: 0;
+  font-family: ProximaNova, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
