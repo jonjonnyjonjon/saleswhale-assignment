@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c3dd2652.css",
+    "main.js": "/static/js/main.e9d265a7.js",
+    "static/media/ProximaNova-Regular.otf": "/static/media/ProximaNova-Regular.ea03f826587148b7335d.otf",
+    "index.html": "/index.html",
+    "main.c3dd2652.css.map": "/static/css/main.c3dd2652.css.map",
+    "main.e9d265a7.js.map": "/static/js/main.e9d265a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3dd2652.css",
+    "static/js/main.e9d265a7.js"
+  ]
+}
