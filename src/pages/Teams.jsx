@@ -33,7 +33,6 @@ const Teams = () => {
 	React.useEffect(() => {
 		(async () => {
 			const allTeams = await fetchAllTeams();
-			console.log(allTeams);
 			setAllTeams(allTeams);
 		})();
 	}, []);
